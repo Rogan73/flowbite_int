@@ -8,3 +8,4 @@
 
 ## Screenshots  
 ![App Screenshot](public/assets/images/demo_screen.jpg)  
+
