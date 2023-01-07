@@ -7,5 +7,5 @@
 - themeSwitcher - theme changer Flowbite dark/light
 
 ## Screenshots  
-![App Screenshot](public/assets/images/demo_screen.jpg)  
+![App Screenshot](public/assets/images/demo_screen.jpg) 
 
